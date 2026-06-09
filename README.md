@@ -1,55 +1,102 @@
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=dongseopKim&fontSize=70&animation=fadeIn&fontAlignY=46&fontAlign=70"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Kim%20Dongseop&fontSize=60&fontColor=e94560&animation=fadeIn&fontAlignY=45&desc=Backend%20Developer&descSize=20&descAlignY=65&descAlign=50"/>
 </p>
 
-<h1>세상을 바꾸는 백엔드 개발자가 목표인 김동섭 입니다</h1>
-<p>
-  - 가천대학교 컴퓨터공학부 4학년 재학중입니다. </br>
-  - 꾸준한 노력과 성실함이 저의 강점이라고 생각합니다.</br>
-  - 목표를 정하면 끝까지 해내기 위해 최선을 다하려고 노력합니다.</br>
+<br/>
+
+<p align="center">
+  <a href="https://velog.io/@kdssos11/posts">
+    <img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:kdssos111@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-<br>
+<br/>
 
-<h2>현재 기술 스택</h2>
-<p>
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
-
+<p align="center">
+  <b>Gachon University, Department of Computer Science & Engineering 21</b><br/>
+  👋 Hello, I am a backend developer who designs for efficiency and builds through collaboration.
 </p>
 
-<br>
+<br/>
 
-<h2>배우고 싶은 기술 스택</h2>
-<p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-  
+---
+
+<h2 align="center">🛠 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 </p>
 
-<br>
+<br/>
 
-<h2>프로젝트</h2>
-<ul style="list-style: none; padding: 0;">
-    <li><a href="https://github.com/Kim-Dongdong/SeoulTTD">프로젝트 1 - 서울 방탈출카페</a></li>
-    <li><a href="https://github.com/Kim-Dongdong/Blog">프로젝트 2 - 블로그 구현(공부)</a></li>
-</ul>
+---
 
-<br>
+<h2 align="center">🚀 Projects</h2>
 
-<h2>공부 기록<h2>
-<ul style="list-style: none; padding: 0;">
-    <li><a href="https://github.com/Kim-Dongdong/JWTPractice">JWT 학습</a></li>
-    <li><a href="https://velog.io/@kdssos11/posts/">나의 Velog</a></li>
-</ul>
+<div align="center">
+
+| 프로젝트 | 설명 | 역할 | 기간 |
+|:---:|:---|:---:|:---:|
+| [**GrabPT**](https://github.com/Kim-Dongdong) | 1대1 PT 매칭 플랫폼. 소셜 로그인·결제·인프라 구축 | 백엔드 리더 | 2025.03 ~ 2025.08 |
+| [**RehabAI**](https://github.com/Kim-Dongdong) | AI 기반 홈 재활 코치 서비스 | 백엔드 리더 | 2025.11 ~ 2025.12 |
+| [**Allerlens**](https://github.com/Kim-Dongdong) | LLM·RAG 기반 콘텐츠 신뢰성·윤리성 평가 (학부연구생) | 연구원 | 2025.11 ~ 2025.12 |
+| **어학원 학생 관리 시스템** | 학부모 알림 전송 자동화 사이드 프로젝트 | 개인 | - |
+
+</div>
+
+<br/>
+
+---
+
+<h2 align="center">🏅 Certifications & Patents</h2>
+
+<p align="center">
+  🥇 <b>SQLD</b> (2024.12) &nbsp;|&nbsp; 🥇 <b>네트워크관리사 2급</b> (2023.12)<br/><br/>
+  📜 <b>특허 출원</b> — 대형언어모델 및 RAG 검색 기반 멀티소스콘텐츠의 신뢰성 및 윤리성 평가방법 (2025.12.16)
+</p>
+
+<br/>
+
+---
+
+<h2 align="center">📚 Experience</h2>
+
+<p align="center">
+  🏄 <b>항해99 백엔드 LITE 부트캠프 2기</b> (2025.08 ~ 2025.12) · Redis, Kafka 활용<br/>
+  🔗 <b>가천대학교 UMC SpringBoot 8기</b> (2025.03 ~ 2025.08) · 연합 개발 동아리<br/>
+  🔬 <b>학부연구생 인턴</b> (2025.11 ~ 2025.12) · AI 활용 교재 공동 제작
+</p>
+
+<br/>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kim-Dongdong&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="160"/>
+  &nbsp;
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer"/>
+</p>
