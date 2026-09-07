@@ -57,7 +57,8 @@
 | [**GrabPT**](https://github.com/Kim-Dongdong) | 1대1 PT 매칭 플랫폼. 소셜 로그인·결제·인프라 구축 | 백엔드 리더 | 2025.03 ~ 2025.08 |
 | [**RehabAI**](https://github.com/Kim-Dongdong) | AI 기반 홈 재활 코치 서비스 | 백엔드 리더 | 2025.11 ~ 2025.12 |
 | [**Allerlens**](https://github.com/Kim-Dongdong) | LLM·RAG 기반 콘텐츠 신뢰성·윤리성 평가 (학부연구생) | 연구원 | 2025.11 ~ 2025.12 |
-| **어학원 학생 관리 시스템** | 학부모 알림 전송 자동화 사이드 프로젝트 | 개인 | - |
+| [**Muneo-AI**](https://github.com/Kim-Dongdong) | RAG 기반 인테리어 견적 시스템 | AI 리더 | 2026.03 ~ 2026.06 |
+| [**취합(Chwihap)**](https://github.com/Kim-Dongdong) | 취합 - 공고 통합 및 지원 관리 시스템 | 백엔드 | 2026.7 ~ 2026.8 |
 
 </div>
 
